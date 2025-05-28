@@ -60,6 +60,12 @@ This project is released under the [MIT License](LICENSE).
 
 ---
 
+## 📄 Example
+
+https://github.com/user-attachments/assets/906419c4-8a72-4b62-85cc-782015822c41
+
+---
+
 ## 🙌 Credits
 
 Built by [Raphael713](https://github.com/Raphael713)  
