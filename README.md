@@ -16,7 +16,7 @@ This project uses an **ESP32 Super Mini** board configured as a BLE (Bluetooth L
 
 ## 🧰 Hardware Requirements
 
-- [x] **ESP32 Super Mini** development board  
+- [x] **ESP32-C3 SuperMini** development board  
 - [x] 2 momentary push buttons (wired in a matrix configuration)
 - [x] Jumper wires or PCB for connections
 
