@@ -62,6 +62,5 @@ This project is released under the [MIT License](LICENSE).
 
 ## 🙌 Credits
 
-Built by [Raphael - North Riders](https://github.com/Raphael713)  
-Based on `BarButtons`, `Keypad` and `ESP32-BLE-Keyboard` libraries.
-
+Built by [Raphael713](https://github.com/Raphael713)  
+Based on [BarButtons](https://jaxeadv.com/barbuttons/)
